@@ -1,0 +1,209 @@
+Package: com.dcproducts.bluetoothrestarter
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: DTCalabro
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.bluetoothrestarter_1.0.0_iphoneos-arm.deb
+Size: 7722
+MD5sum: 4cfd08f063555d3800ecc199c5c257c2
+SHA1: dd30bf6e5c1198796f4af3b7147fdbef4cfe2fe0
+SHA256: 391539238017c7b8a1cbe33533133413ca1d803618ae19dbf52f7dac5f190c75
+Section: Utilities
+Description: Restarts bluetooth after every respring in order to fix notifications on bluetooth devices not working.
+Author: DTCalabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.bluetoothrestarter
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.bluetoothrestarter/icon.png
+Name: BluetoothRestarter
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.bluetoothrestarter/depiction.json
+
+Package: com.dcproducts.bluetoothrestarter
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: DTCalabro
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.bluetoothrestarter_1.0.0_iphoneos-arm64.deb
+Size: 7774
+MD5sum: 5d24ce2b4fd5bd42b35d7ee4fc5401c8
+SHA1: 6634c0eb2fba84db99ab729ea96cd16935283e18
+SHA256: 4cd4d6e7bfbd65887f3309179188a0bb5720d9b20f695147b5966baa9b209286
+Section: Utilities
+Description: Restarts bluetooth after every respring in order to fix notifications on bluetooth devices not working.
+Author: DTCalabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.bluetoothrestarter
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.bluetoothrestarter/icon.png
+Name: BluetoothRestarter
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.bluetoothrestarter/depiction.json
+
+Package: com.dcproducts.colorbar15
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Derek Calabro
+Installed-Size: 4064
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.dcproducts.colorbar15_1.0.0_iphoneos-arm.deb
+Size: 3019290
+MD5sum: 7d18b74a353a34113d5c299f59046b18
+SHA1: b2587b3c26712aac395687ba36a3b4d0015b24a6
+SHA256: ca0fbb075b341aec4a8eb711ea08315df316f30abadbf808af7cec7aa521a773
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with color.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
+Package: com.dcproducts.colorbar15
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Derek Calabro
+Installed-Size: 4064
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.dcproducts.colorbar15_1.0.0-1_iphoneos-arm.deb
+Size: 3019734
+MD5sum: 6faafb701b5db48714fc0685d8642761
+SHA1: c0dd607b9a5f3875d6f71a99b24baaf6a5a0df40
+SHA256: df50c8a9b660d8a920dc0bc1a8b09c15e5f8308098c3860e34c701f57b648886
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with color.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
+Package: com.dcproducts.colorbar15
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: Derek Calabro
+Installed-Size: 1200
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/com.dcproducts.colorbar15_1.0.0-2_iphoneos-arm.deb
+Size: 331800
+MD5sum: 98f7df0b1ca7744f1237ffd6d80207f2
+SHA1: 6c40101001734f8888a93767074b586ea5395498
+SHA256: 7b62b17ae0eacffe7020b4201afea3122e95971f86f77d96ce66b2ed55016d28
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with color.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
+Package: com.dcproducts.colorbar15
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: DTCalabro
+Installed-Size: 1952
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.colorbar15_1.1.0_iphoneos-arm.deb
+Size: 475172
+MD5sum: 6ce20139c5b415317ba354db84924168
+SHA1: 300528de7bda127779bbcd2e37640967575974c2
+SHA256: 7901dbcc8baf62c6f736e90ec71c9aa827aa6796f2f8119e796a7988e021dbeb
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with colors and more.
+Author: DTCalabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
+Package: com.dcproducts.colorbar15
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: DTCalabro
+Installed-Size: 1952
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.colorbar15_1.1.0_iphoneos-arm64.deb
+Size: 475202
+MD5sum: b7547abdafcb5afe8ecaadd8ba683286
+SHA1: d6111a577f6da62f00846601bbb7ae225fbd5a40
+SHA256: 98331405023346304dc472bd10bcb64b8a6fbb8feb1d09b9600fccef2876e404
+Section: Tweaks
+Description: ColorBar15 allows you to personally style your status bar with colors and more.
+Author: DTCalabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.colorbar15
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/icon.png
+Name: ColorBar15
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/depiction.json
+
+Package: com.dcproducts.iossecuritysuitebypass
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Derek Calabro
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm.deb
+Size: 2448
+MD5sum: fad136ac2b4aee8338ad1b8ebbc2c6b8
+SHA1: 5f0080b5848a22caf458335ca8c5e30f3d1578b7
+SHA256: 5e0f360dde2eb198b59a7ce77e5e0b234706041d3bc4c6ce974abf2c05854fa3
+Section: Tweaks
+Description: A bypass for the iOSSecuritySuite Swift library.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+Name: iOSSecuritySuiteBypass
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+
+Package: com.dcproducts.iossecuritysuitebypass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm64.deb
+Size: 2508
+MD5sum: 3ef90ef91bca136ef5f92cb9f4706da4
+SHA1: 806a6ad9cea47a09c6c8dc92a2798ce619dd5f19
+SHA256: 78523cbbb67a11043be7238c2ca535f8e8835d7244096d8c8a729fca3139a825
+Section: Tweaks
+Description: A bypass for the iOSSecuritySuite Swift library.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+Name: iOSSecuritySuiteBypass
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+
+Package: com.dcproducts.pagedotsbegone
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.0.0_iphoneos-arm64.deb
+Size: 154836
+MD5sum: c095732cdacf57b816bcd492539e4875
+SHA1: 990bb2c360cbc9aa366d0be84f5ea0de1d8957e3
+SHA256: 75b4c09bb8494ba77265afd4fc50bb71eb3201f44f5fead7edcb6c07220ffea0
+Section: Tweaks
+Description: PageDotsBeGone allows you to not only hide your page dots but also customize the way they look and feel.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.pagedotsbegone
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
+
+Package: com.dcproducts.pagedotsbegone
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Derek Calabro
+Installed-Size: 856
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.2.1), preferenceloader (>= 2.2.6)
+Filename: ./debs/com.dcproducts.pagedotsbegone_1.0.0_iphoneos-arm.deb
+Size: 154788
+MD5sum: 36e1ec0be32429ae86068dc376f1265b
+SHA1: 180b2812fcff2675a76d2585a1f632440b8a0a45
+SHA256: 1a11b337d49e5b4de39f30707da84dfaa9e280674ec0dbed344351af801b9a2b
+Section: Tweaks
+Description: PageDotsBeGone allows you to not only hide your page dots but also customize the way they look and feel.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.pagedotsbegone
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/icon.png
+Name: PageDotsBeGone
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.pagedotsbegone/depiction.json
+

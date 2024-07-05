@@ -1,0 +1,57 @@
+<package>
+	<id>com.dcproducts.colorbar15</id>
+	<name>ColorBar15</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>preferenceloader</package>
+		<package>ws.hbang.alderis</package>
+	</dependencies>
+    <headerImage>https://dtcalabro.github.io/repo/banners/com.dcproducts.colorbar15.png</headerImage>
+	<shortDescription>ColorBar15 allows you to personally style your status bar with colors and more.</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[
+		ColorBar15 is a tweak available on both rootless and rootful jailbreaks.<br/>
+		It has been tested and works perfectly fine with XinaA15, Dopamine, Palera1n, and will probably work on other jailbreaks too.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<!--<description>This is a description for screenshot 1. It's Cydia!</description>-->
+			<image>screenshot-01.png</image>
+		</screenshot>
+		<screenshot>
+			<!--<description>This is a description for screenshot 2. It's another Cydia!</description>-->
+			<image>screenshot-02.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot-03.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot-04.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added rootless support</change>
+        <change>Added the ability to set a status bar background color</change>
+        <change>Added the ability to change the camera and microphone indicator colors, or remove them altogether</change>
+        <change>Added the ability to change the color of different pill indicators on notched devices and the background on non-notched devices</change>
+        <change>Added the ability to change the color of the network activity indicator on applicable devices</change>
+        <change>Other performance and reliability optimizations and improvements</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa-brands fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

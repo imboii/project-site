@@ -1,0 +1,24 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Check out my GitHub</name>
+			<url>https://github.com/dtcalabro</url>
+			<iconclass>fa-brands fa-github</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/dcalabro3</url>
+			<iconclass>fa-brands fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Message me on Discord</name>
+			<url>https://discordapp.com/users/517728575063851014</url>
+			<iconclass>fa-brands fa-discord</iconclass>
+		</link>
+		<link>
+			<name>Send me a donation</name>
+			<url>https://paypal.com/donate/?cmd=_donations%26business=dtcalabro@gmail.com%26item_name=iOS%20Tweak%20Development</url>
+			<iconclass>fa-brands fa-paypal</iconclass>
+		</link>
+	</footerlinks>
+</repo>

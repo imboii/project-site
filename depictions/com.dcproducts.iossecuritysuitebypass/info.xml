@@ -1,0 +1,38 @@
+<package>
+	<id>com.dcproducts.iossecuritysuitebypass</id>
+	<name>iOSSecuritySuiteBypass</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A bypass for the iOSSecuritySuite Swift library.</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[
+        iOSSecuritySuiteBypass is a jailbreak detection bypass for the iOSSecuritySuite Swift library.<br/>
+        The iOSSecuritySuite library itself is used by some app store apps in order to detect if the device is jailbroken.<br/>
+        It is an extremely basic tweak but it works for what it is.<br/>
+        <br/>
+		iOSSecuritySuiteBypass is a tweak available on both rootless and rootful jailbreaks.<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa-brands fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

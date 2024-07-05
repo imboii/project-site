@@ -1,0 +1,53 @@
+<package>
+	<id>com.dcproducts.pagedotsbegone</id>
+	<name>PageDotsBeGone</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>preferenceloader</package>
+		<package>ws.hbang.alderis</package>
+	</dependencies>
+    <headerImage>https://dtcalabro.github.io/repo/banners/com.dcproducts.pagedotsbegone.png</headerImage>
+	<shortDescription>PageDotsBeGone allows you to not only hide your page dots but also customize the way they look and feel.</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[
+        PageDotsBeGone allows you to not only hide your page dots but also customize the way they look and feel.<br/>
+        It allows you to hide the page dots above the dock and also hide the page dots for stacked widgets.<br/>
+        Alternatively, if you don't want to hide them, you change the color of them.<br/>
+        <br/>
+		PageDotsBeGone is a tweak available on both rootless and rootful jailbreaks.<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>screenshot-01.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot-02.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot-03.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot-04.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa-brands fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

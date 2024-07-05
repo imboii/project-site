@@ -1,0 +1,146 @@
+{
+	"minVersion": "0.4",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "iOSSecuritySuiteBypass is a jailbreak detection bypass for the iOSSecuritySuite Swift library.\nThe iOSSecuritySuite library itself is used by some app store apps in order to detect if the device is jailbroken.\nIt is an extremely basic tweak but it works for what it is."
+                },
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "iOSSecuritySuiteBypass is available for both rootless and rootful jailbreaks."
+                },
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<h2>Information</h2>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Latest Version",
+					"text": "1.0.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Latest Release Date",
+					"text": "02-18-24",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Initial Release Date",
+					"text": "02-18-24",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "DTCalabro",
+					"class": "DepictionTableTextView"
+				},
+                {
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<h2>Links</h2>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Website",
+					"action": "https://dtcalabro.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "GitHub",
+					"action": "https://github.com/dtcalabro",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Twitter",
+					"action": "https://twitter.com/dcalabro3",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Discord",
+					"action": "https://discordapp.com/users/517728575063851014",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Donate",
+					"action": "https://paypal.com/donate/?cmd=_donations&business=dtcalabro@gmail.com&item_name=iOS%20Tweak%20Development",
+					"class": "DepictionTableButtonView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<h3>Version 1.0.0</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Initial Release</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 02-18-24</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

@@ -1,0 +1,300 @@
+{
+	"minVersion": "0.4",
+	"headerImage": "https://dtcalabro.github.io/repo/banners/com.dcproducts.colorbar15.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "ColorBar15 is available for both rootless and rootful jailbreaks."
+                },
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "It has been tested and works perfectly fine with XinaA15, Dopamine, Palera1n, and will probably work on other jailbreaks too."
+				},
+				{
+					"itemCornerRadius": 10,
+					"itemSize": "{320, 284.44444444444}",
+					"screenshots": [
+					  	{
+							"accessibilityText": "Screenshot",
+							"url": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-01.png",
+							"fullSizeURL": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-01.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-02.png",
+							"fullSizeURL": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-02.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-03.png",
+							"fullSizeURL": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-03.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-04.png",
+							"fullSizeURL": "https://dtcalabro.github.io/repo/depictions/com.dcproducts.colorbar15/screenshots/screenshot-04.png"
+					  	}
+					],
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<h2>Information</h2>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Latest Version",
+					"text": "1.1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Latest Release Date",
+					"text": "04-28-23",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Initial Release Date",
+					"text": "12-25-22",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "DTCalabro",
+					"class": "DepictionTableTextView"
+				},
+                {
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<h2>Links</h2>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 10,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Website",
+					"action": "https://dtcalabro.github.io/repo/",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "GitHub",
+					"action": "https://github.com/dtcalabro",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Twitter",
+					"action": "https://twitter.com/dcalabro3",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Discord",
+					"action": "https://discordapp.com/users/517728575063851014",
+					"class": "DepictionTableButtonView"
+				},
+                {
+					"title": "Donate",
+					"action": "https://paypal.com/donate/?cmd=_donations&business=dtcalabro@gmail.com&item_name=iOS%20Tweak%20Development",
+					"class": "DepictionTableButtonView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<h3>Version 1.1.0</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added rootless support</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added the ability to set a status bar background color</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added the ability to change the camera and microphone indicator colors, or remove them altogether</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added the ability to change the color of different pill indicators on notched devices and the background on non-notched devices</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Added the ability to change the color of the network activity indicator on applicable devices</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Other performance and reliability optimizations and improvements</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 04-28-23</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<h3>Version 1.0.0-2</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Fixed a bug where the the icons in settings would display wrong when Dark Mode is not enabled</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 12-27-22</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<h3>Version 1.0.0-1</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Fixed a bug where the colors would not apply at all</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 12-26-22</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<h3>Version 1.0.0</h3>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+                {
+					"markdown": "<span style=\"margin-top: -8px;\">\u00A0\u00A0\u00A0\u00A0\u2022\u00A0 Initial Release</span>",
+					"useSpacing": false,
+                    "useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+					"spacing": 5,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"markdown": "<small style=\"color: #999;\">Released 12-25-22</small>",
+                    "useSpacing": false,
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+
+
+                {
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

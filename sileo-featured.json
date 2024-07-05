@@ -1,0 +1,19 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://dtcalabro.github.io/repo/banners/com.dcproducts.colorbar15.png",
+            "title": "ColorBar15",
+            "package": "com.dcproducts.colorbar15",
+            "hideShadow": false
+        },
+        {
+            "url": "https://dtcalabro.github.io/repo/banners/com.dcproducts.pagedotsbegone.png",
+            "title": "PageDotsBeGone",
+            "package": "com.dcproducts.pagedotsbegone",
+            "hideShadow": false
+        }
+    ]
+}

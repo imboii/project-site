@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <!-- 
+        Create: https://api.countapi.xyz/create?namespace=repo.dtcalabro.github.io&key=ColorBar15-Installs&enable_reset=1
+        Reset:  https://api.countapi.xyz/set/repo.dtcalabro.github.io/ColorBar15-Installs?value=0
+        Get:    https://api.countapi.xyz/get/repo.dtcalabro.github.io/ColorBar15-Installs
+        Hit:    https://api.countapi.xyz/hit/repo.dtcalabro.github.io/ColorBar15-Installs
+        -->
+        <script async src="https://api.countapi.xyz/get/repo.dtcalabro.github.io/ColorBar15-Installs?callback=colorbar15Installs"></script>
+    </head>
+	<body>
+        <h1>ColorBar15 has been installed <span id="installs"></span> times!</h1>
+
+        <script>
+            function colorbar15Installs(response) {
+                document.getElementById("installs").innerText = response.value;
+            }
+        </script>
+    </body>
+</html>

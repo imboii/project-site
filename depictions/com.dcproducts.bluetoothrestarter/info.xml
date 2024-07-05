@@ -1,0 +1,38 @@
+<package>
+	<id>com.dcproducts.bluetoothrestarter</id>
+	<name>BluetoothRestarter</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Restarts bluetooth after every respring in order to fix notifications on bluetooth devices not working.</shortDescription>
+	<descriptionlist>
+		<description>
+		<![CDATA[
+        BluetoothRestarter is meant to be used if you are experiencing problems with not recieving notifications on bluetooth devices after doing a respring.<br/>
+        It works by turning airplane mode on for 3 seconds and turns it back off right after the device resprings.<br/>
+        This should cause bluetooth to turn off and turn back on, which fixes the issue.<br/>
+        <br/>
+		BluetoothRestarter is a tweak available on both rootless and rootful jailbreaks.<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa-brands fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

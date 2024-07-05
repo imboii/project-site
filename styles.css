@@ -1,0 +1,382 @@
+/*@import url(fonts/SFProText/SFProText.css);*/
+/*@import url(fonts/SFUIText/SFUIText.css);*/
+/*@import url(fonts/SFProDisplay/SFProDisplay.css);*/
+
+body {
+    margin: 1em;
+    /* -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" */
+    /*font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;*/
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Rubic, sans-serif;*/
+    /*font-family: "SF-Pro", "Segoe UI", Arial, sans-serif;*/
+    /*font-family: "Linear","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu, Cantarell,"Open Sans","Helvetica Neue",sans-serif;*/
+    /*font-family: "Linear","SF Pro Display","Segoe UI",Roboto,Oxygen,Ubuntu, Cantarell,"Open Sans","Helvetica Neue",sans-serif;*/
+    /*font-family: "Linear","SF Pro Display","Segoe UI",sans-serif;*/
+    /*font-family: "Linear","SF Pro Display",sans-serif;*/
+    /*font-family: "Linear","SF Pro Display",sans-serif;*/
+
+    /*font-family: "SF Pro Text", "SF UI Text", "SF Pro Display", "Helvetica Neue", sans-serif;*/
+    /*font-family: "SF Pro Display", "SF Pro Text", "SF UI Text", "Helvetica Neue", sans-serif;*/
+    font-family: "SF UI Text", "SF Pro Display", "SF Pro Text", "Helvetica Neue", Roboto, Arial, "Noto Sans", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    /*font-family: "Inter", "SF Pro Text", "SF UI Text", "SF Pro Display", "Helvetica Neue", sans-serif;*/
+    /*font-family: "Inter", sans-serif;*/
+}
+
+.card {
+    margin-bottom: 1em;
+    border-radius: 10px;
+    border: 3px solid;
+}
+
+.card-text {
+    margin-bottom: 10px;
+}
+
+.thumbnail {
+    margin-bottom: 2em;
+}
+
+.list-group {
+    margin-bottom: 2em;
+}
+
+.disable-hover {
+    pointer-events: none;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 10px 15px 10px 15px;
+    display: block;
+    text-align: left;
+    border-width: 3px;
+}
+
+.link-item:hover {
+    background-color: #f5f5f5;
+    color: black;
+    border-width: 3px;
+}
+
+html.can-touch .link-item:hover { /* disable hover effect when input is touch */
+    background-color: #fff;
+}
+
+html.can-touch .link-item:active { /* disable hover effect when input is touch */
+    background-color: #f5f5f5;
+}
+
+.fa-brands {
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 15px;
+    min-width: 20px;
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    border-radius: 10px;
+}
+
+.list-group-item {
+    border-width: 3px;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /*border-width: 3px;*/
+}
+
+.list-group-item:last-child {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /*border-width: 3px;*/
+}
+
+.list-group-item + .list-group-item {
+    border-top-width: 0px;
+}
+
+.card-header {
+    font-weight: 500;
+}
+
+.card-header:first-child {
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-width: 3px;
+    border-bottom: none;
+}
+
+.card-body:first-child {
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-width: 3px;
+}
+
+.card-body:last-child {
+    /*border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;*/
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-width: 3px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.link-item.list-group-item {
+    text-decoration: none;
+}
+
+.link-item.list-group-item:first-child:hover {
+    border-top: 3px solid #f5f5f5;
+    border-left: 3px solid #f5f5f5;
+    border-right: 3px solid #f5f5f5;
+    border-bottom: 3px solid #f5f5f5;
+}
+
+.link-item.list-group-item:hover {
+    border-left: 3px solid #f5f5f5;
+    border-right: 3px solid #f5f5f5;
+    border-bottom: 3px solid #f5f5f5;
+    border-top: 3px solid #f5f5f5;
+}
+
+.link-item.list-group-item:last-child:hover {
+    border-left: 3px solid #f5f5f5;
+    border-right: 3px solid #f5f5f5;
+    border-bottom: 3px solid #f5f5f5;
+}
+
+.link-item.list-group-item:hover:not(:first-child) {
+    box-shadow: 0px -4px 0px 0px #f5f5f5;
+}
+
+.list-group-item + .link-item:hover {
+    border-bottom: 3px solid #f5f5f5;
+    border-top: none;
+}
+
+/*
+ * Main header section
+ */
+.main-header {
+    text-align: center;
+    /*box-sizing: border-box;*/
+}
+
+.main-header-img {
+    /*height: auto;
+    width: auto;
+    height: 250px !important;
+    width: 250px !important;*/
+    /*width: auto;*/
+    height: 250px;
+    /*width: 250px;*/
+    /*height: 25%;
+    width: 25%;*/
+    /*padding: 10px;*/
+    /*margin: 10px;*/
+    max-width: 100%;
+    border-radius: 10px;
+    /*overflow-anchor: none;*
+    /*vertical-align: -webkit-baseline-middle;*/
+    margin-bottom: 10px;
+}
+
+.main-header-label {
+    /*margin-top: 0.5rem;*/
+    /*margin-top: 10px;
+    margin-bottom: 10px;*/
+    font-weight: 900;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /*min-height: 48px;
+    height: 48px !important;
+    overflow-anchor: none;*/
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+
+/*
+ * Add repo section
+ */
+.add-repo-container {
+    width: fit-content;
+    margin: auto;
+    display: flex;
+    margin-top: 2em;
+}
+
+.add-repo-header {
+    text-align: center;
+}
+
+.add-repo-body {
+    border-radius: 0px;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25em;
+    border-width: 3px;
+}
+
+.add-repo-btn-container {
+    width: fit-content;
+    margin: auto;
+    display: flex;
+}
+
+.add-repo-btn:not(:last-child) {
+    margin-right: 15px;
+}
+
+/*
+ * Featured packages section
+ */
+.featured-header {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+/* Mobile Devices */
+@media only screen and (max-width: 640px) {
+    .main-header-img {
+        display: none;
+    }
+
+    .add-repo-btn-container {
+        width: auto;
+        display: grid;
+        /*grid-template-columns: 50% 50%;*/
+    }
+
+    .add-repo-btn {
+        margin: 5px;
+        float: left;
+    }
+
+    .add-repo-btn:not(:last-child) {
+        margin-right: 5px;
+    }
+}
+
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: var(--light-mode-primary-bg-color);
+        color: black;
+    }
+
+    .card {
+        border-color: var(--light-mode-secondary-bg-color);
+        background-color: rgba(0, 0, 0, 0);
+    }
+
+    .card-header {
+        background-color: var(--light-mode-secondary-bg-color);
+    }
+
+    .card-body {
+        background-color: var(--light-mode-primary-bg-color);
+    }
+
+    .jumbotron {
+        background-color: var(--light-mode-secondary-bg-color);
+    }
+
+    .list-group-item {
+        background-color: var(--light-mode-primary-bg-color);
+        border-color:  var(--light-mode-secondary-bg-color);
+    }
+
+    html.can-touch .link-item:hover { /* disable hover effect when input is touch */
+        background-color: var(--light-mode-primary-bg-color);
+    }
+    
+    html.can-touch .link-item:active { /* disable hover effect when input is touch */
+        background-color: var(--light-mode-primary-bg-color);
+    }
+
+    /*
+    .fa-brands:before {
+        color: white;
+    }
+
+    .link-item:hover > .fa-brands:before {
+        color: black;
+    }
+    */
+
+    .add-repo-body {
+        background-color: var(--light-mode-secondary-bg-color);
+    }
+
+    :root {
+        --light-mode-primary-bg-color: #eeeeee;
+        /*--light-mode-secondary-bg-color: #969696;*/
+        --light-mode-secondary-bg-color: #c9c9c9;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--dark-mode-primary-bg-color);
+        color: white;
+    }
+
+    .card {
+        border-color: var(--dark-mode-secondary-bg-color);
+        background-color: rgba(0, 0, 0, 0);
+    }
+
+    .card-header {
+        background-color: var(--dark-mode-secondary-bg-color);
+    }
+
+    .card-body {
+        background-color: var(--dark-mode-primary-bg-color);
+    }
+
+    .jumbotron {
+        background-color: var(--dark-mode-secondary-bg-color);
+    }
+
+    .list-group-item {
+        background-color: var(--dark-mode-primary-bg-color);
+        border-color:  var(--dark-mode-secondary-bg-color);
+    }
+
+    html.can-touch .link-item:hover { /* disable hover effect when input is touch */
+        background-color: var(--dark-mode-primary-bg-color);
+    }
+    
+    html.can-touch .link-item:active { /* disable hover effect when input is touch */
+        background-color: var(--dark-mode-primary-bg-color);
+    }
+
+    .fa-brands:before {
+        color: white;
+    }
+
+    .link-item:hover > .fa-brands:before {
+        color: black;
+    }
+
+    .add-repo-body {
+        background-color: var(--dark-mode-secondary-bg-color);
+    }
+
+    :root {
+        --dark-mode-primary-bg-color: #1f1f1f;
+        --dark-mode-secondary-bg-color: #2f2f2f;
+    }
+}
